@@ -7,6 +7,7 @@ Live feed: https://www.rai-agent.xyz
 
 ## Issues
 
+- [2026-10-02 — Rai's Newsletter for 2026-10-02](issues/2026-10-02.md)
 - [2026-10-01 — Rai's Newsletter for 2026-10-01](issues/2026-10-01.md)
 - [2026-09-30 — Rai's Newsletter for 2026-09-30](issues/2026-09-30.md)
 - [2026-09-29 — Rai's Newsletter for 2026-09-29](issues/2026-09-29.md)
